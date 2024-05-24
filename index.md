@@ -9,28 +9,6 @@
 | **Author** | Abdul Haq Mohammed |
 | **Approval Authority** | Jurie Du Preez |
 | **Review Cycle** | Annually |
-
-| **Version** | **Date** | **Author(s)** | **Changes Made** |
-| --- | --- | --- | --- |
-| 0.1 | Dec 22, 2023 | Abdul | Initial draft of Cryptography Standard template. |
-| 0.2 | Jan 6, 2024 | Abdul | Reviewed and altered clarified sections. |
-| 0.3 | Jan 11, 2024 | Abdul | Added references to NIST, HISO/HISF, NZISM 3.6. |
-| 0.4 | Jan 17, 2024 | Abdul | Updated encryption options. |
-| 0.5 | Jan 21, 2024 | Abdul | Encryption best practices. |
-| 0.6 | Jan 26, 2024 | Abdul | Reviewed and revised entire document for clarity. |
-| 0.7 | Jan 29, 2024 | Abdul | Major update: restructured, added version control. |
-| 0.8 | Feb 14, 2024 | Abdul | Updated references, reviewed encryption details. |
-| 0.9 | Feb 17, 2024 | Abdul | Added section on KMS. |
-| 0.91 | Feb 23, 2024 | Abdul | Review the standard for additional content on Cloud/HA services |
-| 0.92 | Feb 28, 2024 | Abdul | Rewritten based on changes in new release - NZISM 3.7 |
-| 0.93 | Feb 28, 2024 | Abdul | Review & minor modification like adding references to NZISM 3.7 |
-| 0.94 | Mar 06, 2024 | Abdul | Content updated |
-| 0.94a | Mar 07, 2024 | Abdul Haq | Comments added after consulting Jurie |
-| 0.94b | Mar 08, 2024 | Abdul Haq | Comments addressed |
-| 0.94c | Mar 11, 2024 | Abdul Haq | Updated with Tables and cheat codes |
-| 0.94d | Mar 21, 2024 | Abdul Haq | Alignment as per Liz template e.g., API standard |
-| 0.94e | Apr 11, 2024 | Abdul Haq | Content updates on Key management – need to update parameters in the next update |
-
 **Health New Zealand | Te Whatu Ora Cryptography Standard - _Draft_**
 
 **Table of Contents**
